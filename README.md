@@ -26,7 +26,7 @@ Welcome to **THE-WATCH-LIST**, a personalized movie recommendation system design
    ```bash
    git clone https://github.com/Souvik-Rana/MOVIE-RECOMMENDATION-SYSTEM.git
    cd THE-WATCH-LIST
-````
+
 
 2. **Create a virtual environment:**
 
@@ -78,12 +78,28 @@ We welcome contributions! To get started:
 4. Push to the branch: `git push origin feature-name`
 5. Create a pull request
 
-## 🙋‍♂️ Contact
+## 👤 Author
 
-For questions or collaboration:
+<p align="center">
+  <b> SOUVIK RANA </b><br>
+  <br><a href="https://github.com/souvikrana17">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/souvikrana17/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.kaggle.com/souvikrana17">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-right: 10px;" />
+  </a>
+  <a href="https://souvikrana17.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
+</p>
 
-* GitHub: https://github.com/Souvik-Rana
-* Email: rana.souvik17@gmail.com
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/souvikrana17/souvikrana17/main/SOUVIK%20RANA%20BANNER.jpg" alt="Banner" width="100%" />
+</p>
 
 ---
 
